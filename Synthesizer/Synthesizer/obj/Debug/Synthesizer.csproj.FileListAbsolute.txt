@@ -1,0 +1,10 @@
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\bin\Debug\Synthesizer.exe.config
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\bin\Debug\Synthesizer.exe
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\bin\Debug\Synthesizer.pdb
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csproj.AssemblyReference.cache
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.Properties.Resources.resources
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.Synthesizer.resources
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csproj.GenerateResource.cache
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csproj.CoreCompileInputs.cache
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.exe
+C:\Users\robou\source\repos\Synthesizer\Synthesizer\obj\Debug\Synthesizer.pdb
